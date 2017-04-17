@@ -1,7 +1,7 @@
 # test coverage for  [jasmine (v2.5.3)](http://jasmine.github.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-jasmine.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jasmine) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jasmine.svg)](https://travis-ci.org/npmtest/node-npmtest-jasmine)
 #### Command line jasmine
 
-[![NPM](https://nodei.co/npm/jasmine.png?downloads=true)](https://www.npmjs.com/package/jasmine)
+[![NPM](https://nodei.co/npm/jasmine.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jasmine)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-jasmine/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-jasmine/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-jasmine/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jasmine/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jasmine/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-jasmine/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-jasmine/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-jasmine/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-jasmine/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-jasmine/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-jasmine%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-jasmine/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-jasmine/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-jasmine/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-jasmine/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-jasmine%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jasmine/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-jasmine/build/test-report.html](https://npmtest.github.io/node-npmtest-jasmine/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-jasmine/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-jasmine/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-jasmine/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-jasmine/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-jasmine/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jasmine/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-jasmine/build/screenCapture.npmPackageListing.svg)
 
@@ -61,21 +67,17 @@
     "main": "./lib/jasmine.js",
     "maintainers": [
         {
-            "name": "slackersoft",
-            "email": "gregg@slackersoft.net"
+            "name": "slackersoft"
         },
         {
-            "name": "dwfrank",
-            "email": "dwfrank@pivotallabs.com"
+            "name": "dwfrank"
         },
         {
-            "name": "amavisca",
-            "email": "chris.amavisca@gmail.com"
+            "name": "amavisca"
         }
     ],
     "name": "jasmine",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jasmine/jasmine-npm.git"
