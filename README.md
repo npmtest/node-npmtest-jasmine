@@ -1,4 +1,7 @@
-# test coverage for  [jasmine (v2.5.3)](http://jasmine.github.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-jasmine.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jasmine) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jasmine.svg)](https://travis-ci.org/npmtest/node-npmtest-jasmine)
+# npmtest-jasmine
+
+#### test coverage for  [jasmine (v2.5.3)](http://jasmine.github.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-jasmine.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jasmine) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jasmine.svg)](https://travis-ci.org/npmtest/node-npmtest-jasmine)
+
 #### Command line jasmine
 
 [![NPM](https://nodei.co/npm/jasmine.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jasmine)
